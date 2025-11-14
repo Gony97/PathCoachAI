@@ -1,0 +1,53 @@
+[
+  {
+    "id": "MOD-001",
+    "title": "Lakehouse Workflows on Databricks",
+    "description": "Lakehouse Workflows on Databricks",
+    "prerequisites": [
+      "SKILL: Databricks Basics",
+      "SKILL: Data Engineering Fundamentals"
+    ],
+    "skills_required": [
+      "SKILL: Databricks Basics",
+      "SKILL: Data Engineering Fundamentals"
+    ],
+    "estimated_time_hours": 4.0,
+    "resources": [
+      {
+        "title": "Databricks Lakehouse Platform Documentation",
+        "url": "https://docs.databricks.com/lakehouse/index.html"
+      },
+      {
+        "title": "Databricks Academy: Lakehouse Fundamentals",
+        "url": "https://academy.databricks.com/"
+      },
+      {
+        "title": "Building Lakehouse Workflows on Databricks",
+        "url": "https://www.databricks.com/blog/2021/06/30/building-lakehouse-workflows-on-databricks.html"
+      }
+    ],
+    "status": "not started",
+    "difficulty": "beginner",
+    "learning_style": "hands-on",
+    "outcome": "Implement Lakehouse workflows using Databricks"
+  },
+  {
+    "id": "MOD-002",
+    "title": "Statistics & Experimentation Basics",
+    "description": "Statistics & Experimentation Basics",
+    "prerequisites": [
+      "SKILL: Basic Mathematics",
+      "SKILL: Python Programming"
+    ],
+    "skills_required": [
+      "SKILL: Basic Mathematics",
+      "SKILL: Python Programming"
+    ],
+    "estimated_time_hours": 4.0,
+    "resources": [],
+    "status": "not started",
+    "difficulty": "beginner",
+    "learning_style": "reading",
+    "outcome": "Understand fundamental statistical concepts and experimentation techniques."
+  }
+]

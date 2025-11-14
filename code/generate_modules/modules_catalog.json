@@ -1,0 +1,465 @@
+[
+  {
+    "id": "MOD-001",
+    "title": "Lakehouse Workflows on Databricks",
+    "description": "Learn databricks from the ground up with hands-on exercises mapped to common job requirements.",
+    "prerequisites": [
+      "SKILL:Python basics"
+    ],
+    "skills_required": [
+      "databricks"
+    ],
+    "estimated_time_hours": 3.0,
+    "resources": [
+      {
+        "type": "article",
+        "label": "Lakehouse Workflows on Databricks – Guide",
+        "url": "<add>"
+      },
+      {
+        "type": "video",
+        "label": "Lakehouse Workflows on Databricks – Walkthrough",
+        "url": "<add>"
+      }
+    ],
+    "status": "not started",
+    "difficulty": "intermediate",
+    "learning_style": [
+      "hands-on",
+      "reading"
+    ],
+    "outcome": "Confidently apply databricks in real job tasks."
+  },
+  {
+    "id": "MOD-002",
+    "title": "Statistics & Experimentation Basics",
+    "description": "Learn statistics from the ground up with hands-on exercises mapped to common job requirements.",
+    "prerequisites": [
+      "SKILL:Python basics"
+    ],
+    "skills_required": [
+      "statistics"
+    ],
+    "estimated_time_hours": 2.0,
+    "resources": [
+      {
+        "type": "article",
+        "label": "Statistics & Experimentation Basics – Guide",
+        "url": "<add>"
+      },
+      {
+        "type": "video",
+        "label": "Statistics & Experimentation Basics – Walkthrough",
+        "url": "<add>"
+      }
+    ],
+    "status": "not started",
+    "difficulty": "beginner",
+    "learning_style": [
+      "hands-on",
+      "reading"
+    ],
+    "outcome": "Confidently apply statistics in real job tasks."
+  },
+  {
+    "id": "MOD-003",
+    "title": "Python for Data Science",
+    "description": "Learn python from the ground up with hands-on exercises mapped to common job requirements.",
+    "prerequisites": [],
+    "skills_required": [
+      "python"
+    ],
+    "estimated_time_hours": 2.0,
+    "resources": [
+      {
+        "type": "article",
+        "label": "Python for Data Science – Guide",
+        "url": "<add>"
+      },
+      {
+        "type": "video",
+        "label": "Python for Data Science – Walkthrough",
+        "url": "<add>"
+      }
+    ],
+    "status": "not started",
+    "difficulty": "beginner",
+    "learning_style": [
+      "hands-on",
+      "reading"
+    ],
+    "outcome": "Confidently apply python in real job tasks."
+  },
+  {
+    "id": "MOD-004",
+    "title": "AWS for Data Scientists",
+    "description": "Learn aws from the ground up with hands-on exercises mapped to common job requirements.",
+    "prerequisites": [
+      "SKILL:Python basics"
+    ],
+    "skills_required": [
+      "aws"
+    ],
+    "estimated_time_hours": 2.0,
+    "resources": [
+      {
+        "type": "article",
+        "label": "AWS for Data Scientists – Guide",
+        "url": "<add>"
+      },
+      {
+        "type": "video",
+        "label": "AWS for Data Scientists – Walkthrough",
+        "url": "<add>"
+      }
+    ],
+    "status": "not started",
+    "difficulty": "beginner",
+    "learning_style": [
+      "hands-on",
+      "reading"
+    ],
+    "outcome": "Confidently apply aws in real job tasks."
+  },
+  {
+    "id": "MOD-005",
+    "title": "Practical SQL for Analytics & ML",
+    "description": "Learn sql from the ground up with hands-on exercises mapped to common job requirements.",
+    "prerequisites": [
+      "SKILL:Python basics"
+    ],
+    "skills_required": [
+      "sql"
+    ],
+    "estimated_time_hours": 2.0,
+    "resources": [
+      {
+        "type": "article",
+        "label": "Practical SQL for Analytics & ML – Guide",
+        "url": "<add>"
+      },
+      {
+        "type": "video",
+        "label": "Practical SQL for Analytics & ML – Walkthrough",
+        "url": "<add>"
+      }
+    ],
+    "status": "not started",
+    "difficulty": "beginner",
+    "learning_style": [
+      "hands-on",
+      "reading"
+    ],
+    "outcome": "Confidently apply sql in real job tasks."
+  },
+  {
+    "id": "MOD-006",
+    "title": "Modern Warehousing on Snowflake",
+    "description": "Learn snowflake from the ground up with hands-on exercises mapped to common job requirements.",
+    "prerequisites": [
+      "SKILL:Python basics"
+    ],
+    "skills_required": [
+      "snowflake"
+    ],
+    "estimated_time_hours": 2.0,
+    "resources": [
+      {
+        "type": "article",
+        "label": "Modern Warehousing on Snowflake – Guide",
+        "url": "<add>"
+      },
+      {
+        "type": "video",
+        "label": "Modern Warehousing on Snowflake – Walkthrough",
+        "url": "<add>"
+      }
+    ],
+    "status": "not started",
+    "difficulty": "beginner",
+    "learning_style": [
+      "hands-on",
+      "reading"
+    ],
+    "outcome": "Confidently apply snowflake in real job tasks."
+  },
+  {
+    "id": "MOD-007",
+    "title": "Mastering Apis",
+    "description": "Learn apis from the ground up with hands-on exercises mapped to common job requirements.",
+    "prerequisites": [
+      "SKILL:Python basics"
+    ],
+    "skills_required": [
+      "apis"
+    ],
+    "estimated_time_hours": 2.0,
+    "resources": [
+      {
+        "type": "article",
+        "label": "Mastering Apis – Guide",
+        "url": "<add>"
+      },
+      {
+        "type": "video",
+        "label": "Mastering Apis – Walkthrough",
+        "url": "<add>"
+      }
+    ],
+    "status": "not started",
+    "difficulty": "beginner",
+    "learning_style": [
+      "hands-on",
+      "reading"
+    ],
+    "outcome": "Confidently apply apis in real job tasks."
+  },
+  {
+    "id": "MOD-008",
+    "title": "Distributed Data Processing with Spark",
+    "description": "Learn spark from the ground up with hands-on exercises mapped to common job requirements.",
+    "prerequisites": [
+      "SKILL:Python basics"
+    ],
+    "skills_required": [
+      "spark"
+    ],
+    "estimated_time_hours": 4.0,
+    "resources": [
+      {
+        "type": "article",
+        "label": "Distributed Data Processing with Spark – Guide",
+        "url": "<add>"
+      },
+      {
+        "type": "video",
+        "label": "Distributed Data Processing with Spark – Walkthrough",
+        "url": "<add>"
+      }
+    ],
+    "status": "not started",
+    "difficulty": "advanced",
+    "learning_style": [
+      "hands-on",
+      "reading"
+    ],
+    "outcome": "Confidently apply spark in real job tasks."
+  },
+  {
+    "id": "MOD-009",
+    "title": "Mastering Causal Inference",
+    "description": "Learn causal inference from the ground up with hands-on exercises mapped to common job requirements.",
+    "prerequisites": [
+      "SKILL:Python basics"
+    ],
+    "skills_required": [
+      "causal inference"
+    ],
+    "estimated_time_hours": 2.0,
+    "resources": [
+      {
+        "type": "article",
+        "label": "Mastering Causal Inference – Guide",
+        "url": "<add>"
+      },
+      {
+        "type": "video",
+        "label": "Mastering Causal Inference – Walkthrough",
+        "url": "<add>"
+      }
+    ],
+    "status": "not started",
+    "difficulty": "beginner",
+    "learning_style": [
+      "hands-on",
+      "reading"
+    ],
+    "outcome": "Confidently apply causal inference in real job tasks."
+  },
+  {
+    "id": "MOD-010",
+    "title": "Applied Machine Learning with scikit-learn",
+    "description": "Learn scikit-learn from the ground up with hands-on exercises mapped to common job requirements.",
+    "prerequisites": [
+      "SKILL:Python basics"
+    ],
+    "skills_required": [
+      "scikit-learn"
+    ],
+    "estimated_time_hours": 2.0,
+    "resources": [
+      {
+        "type": "article",
+        "label": "Applied Machine Learning with scikit-learn – Guide",
+        "url": "<add>"
+      },
+      {
+        "type": "video",
+        "label": "Applied Machine Learning with scikit-learn – Walkthrough",
+        "url": "<add>"
+      }
+    ],
+    "status": "not started",
+    "difficulty": "beginner",
+    "learning_style": [
+      "hands-on",
+      "reading"
+    ],
+    "outcome": "Confidently apply scikit-learn in real job tasks."
+  },
+  {
+    "id": "MOD-011",
+    "title": "Deep Learning with TensorFlow",
+    "description": "Learn tensorflow from the ground up with hands-on exercises mapped to common job requirements.",
+    "prerequisites": [
+      "SKILL:Python basics"
+    ],
+    "skills_required": [
+      "tensorflow"
+    ],
+    "estimated_time_hours": 2.0,
+    "resources": [
+      {
+        "type": "article",
+        "label": "Deep Learning with TensorFlow – Guide",
+        "url": "<add>"
+      },
+      {
+        "type": "video",
+        "label": "Deep Learning with TensorFlow – Walkthrough",
+        "url": "<add>"
+      }
+    ],
+    "status": "not started",
+    "difficulty": "beginner",
+    "learning_style": [
+      "hands-on",
+      "reading"
+    ],
+    "outcome": "Confidently apply tensorflow in real job tasks."
+  },
+  {
+    "id": "MOD-012",
+    "title": "Deep Learning with PyTorch",
+    "description": "Learn pytorch from the ground up with hands-on exercises mapped to common job requirements.",
+    "prerequisites": [
+      "SKILL:Python basics"
+    ],
+    "skills_required": [
+      "pytorch"
+    ],
+    "estimated_time_hours": 2.0,
+    "resources": [
+      {
+        "type": "article",
+        "label": "Deep Learning with PyTorch – Guide",
+        "url": "<add>"
+      },
+      {
+        "type": "video",
+        "label": "Deep Learning with PyTorch – Walkthrough",
+        "url": "<add>"
+      }
+    ],
+    "status": "not started",
+    "difficulty": "beginner",
+    "learning_style": [
+      "hands-on",
+      "reading"
+    ],
+    "outcome": "Confidently apply pytorch in real job tasks."
+  },
+  {
+    "id": "MOD-013",
+    "title": "Data Visualization with Tableau",
+    "description": "Learn tableau from the ground up with hands-on exercises mapped to common job requirements.",
+    "prerequisites": [
+      "SKILL:Python basics"
+    ],
+    "skills_required": [
+      "tableau"
+    ],
+    "estimated_time_hours": 2.0,
+    "resources": [
+      {
+        "type": "article",
+        "label": "Data Visualization with Tableau – Guide",
+        "url": "<add>"
+      },
+      {
+        "type": "video",
+        "label": "Data Visualization with Tableau – Walkthrough",
+        "url": "<add>"
+      }
+    ],
+    "status": "not started",
+    "difficulty": "beginner",
+    "learning_style": [
+      "hands-on",
+      "reading"
+    ],
+    "outcome": "Confidently apply tableau in real job tasks."
+  },
+  {
+    "id": "MOD-014",
+    "title": "Azure for Data Scientists",
+    "description": "Learn azure from the ground up with hands-on exercises mapped to common job requirements.",
+    "prerequisites": [
+      "SKILL:Python basics"
+    ],
+    "skills_required": [
+      "azure"
+    ],
+    "estimated_time_hours": 2.0,
+    "resources": [
+      {
+        "type": "article",
+        "label": "Azure for Data Scientists – Guide",
+        "url": "<add>"
+      },
+      {
+        "type": "video",
+        "label": "Azure for Data Scientists – Walkthrough",
+        "url": "<add>"
+      }
+    ],
+    "status": "not started",
+    "difficulty": "beginner",
+    "learning_style": [
+      "hands-on",
+      "reading"
+    ],
+    "outcome": "Confidently apply azure in real job tasks."
+  },
+  {
+    "id": "MOD-015",
+    "title": "A/B Testing & Causal Inference",
+    "description": "Learn a/b testing from the ground up with hands-on exercises mapped to common job requirements.",
+    "prerequisites": [
+      "SKILL:Python basics"
+    ],
+    "skills_required": [
+      "a/b testing"
+    ],
+    "estimated_time_hours": 2.0,
+    "resources": [
+      {
+        "type": "article",
+        "label": "A/B Testing & Causal Inference – Guide",
+        "url": "<add>"
+      },
+      {
+        "type": "video",
+        "label": "A/B Testing & Causal Inference – Walkthrough",
+        "url": "<add>"
+      }
+    ],
+    "status": "not started",
+    "difficulty": "beginner",
+    "learning_style": [
+      "hands-on",
+      "reading"
+    ],
+    "outcome": "Confidently apply a/b testing in real job tasks."
+  }
+]

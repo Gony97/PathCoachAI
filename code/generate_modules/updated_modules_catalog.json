@@ -1,0 +1,470 @@
+[
+  {
+    "id": "MOD-001",
+    "title": "Lakehouse Workflows on Databricks",
+    "description": "Lakehouse Workflows on Databricks",
+    "prerequisites": [
+      "SKILL: Databricks Basics",
+      "SKILL: SQL Fundamentals"
+    ],
+    "skills_required": [
+      "SKILL: Databricks Basics",
+      "SKILL: SQL Fundamentals"
+    ],
+    "estimated_time_hours": 4.0,
+    "resources": [
+      {
+        "title": "Databricks Lakehouse Platform Documentation",
+        "url": "https://docs.databricks.com/lakehouse/index.html"
+      },
+      {
+        "title": "Getting Started with Workflows on Databricks",
+        "url": "https://docs.databricks.com/workflows/index.html"
+      },
+      {
+        "title": "Databricks Academy: Lakehouse Fundamentals",
+        "url": "https://academy.databricks.com/"
+      }
+    ],
+    "status": "not started",
+    "difficulty": "beginner",
+    "learning_style": "hands-on",
+    "outcome": "Implement a Lakehouse Workflow using Databricks"
+  },
+  {
+    "id": "MOD-002",
+    "title": "Statistics & Experimentation Basics",
+    "description": "Statistics & Experimentation Basics",
+    "prerequisites": [
+      "SKILL: Basic Mathematics",
+      "SKILL: Python Programming"
+    ],
+    "skills_required": [
+      "SKILL: Basic Mathematics",
+      "SKILL: Python Programming"
+    ],
+    "estimated_time_hours": 4.0,
+    "resources": [
+      {
+        "title": "Statistical Inference",
+        "url": "https://www.coursera.org/learn/statistical-inference",
+        "type": "course"
+      },
+      {
+        "title": "A/B Testing: The Complete Guide",
+        "url": "https://www.optimizely.com/insights/ab-testing-guide/",
+        "type": "guide"
+      },
+      {
+        "title": "Statistics for Data Science",
+        "url": "https://www.kaggle.com/learn/statistics",
+        "type": "interactive course"
+      }
+    ],
+    "status": "not started",
+    "difficulty": "beginner",
+    "learning_style": "interactive",
+    "outcome": "Understand fundamental statistical concepts and design basic experiments."
+  },
+  {
+    "id": "MOD-003",
+    "title": "Python for Data Science",
+    "description": "Python for Data Science",
+    "prerequisites": [
+      "SKILL: Basic Python Programming",
+      "SKILL: Data Manipulation with Pandas"
+    ],
+    "skills_required": [
+      "SKILL: Basic Python Programming",
+      "SKILL: Data Manipulation with Pandas"
+    ],
+    "estimated_time_hours": 4.0,
+    "resources": [],
+    "status": "not started",
+    "difficulty": "beginner",
+    "learning_style": "hands-on",
+    "outcome": "Implement data analysis techniques using Python libraries."
+  },
+  {
+    "id": "MOD-004",
+    "title": "AWS for Data Scientists",
+    "description": "AWS for Data Scientists",
+    "prerequisites": [
+      "AWS Basics",
+      "Python Programming"
+    ],
+    "skills_required": [
+      "AWS Basics",
+      "Python Programming"
+    ],
+    "estimated_time_hours": 4.0,
+    "resources": [
+      {
+        "title": "AWS Machine Learning Documentation",
+        "url": "https://aws.amazon.com/machine-learning/"
+      },
+      {
+        "title": "AWS Certified Data Analytics - Specialty Exam Guide",
+        "url": "https://aws.amazon.com/certification/certified-data-analytics-specialty/"
+      },
+      {
+        "title": "Hands-On Machine Learning with AWS",
+        "url": "https://www.oreilly.com/library/view/hands-on-machine-learning/9781492055019/"
+      }
+    ],
+    "status": "not started",
+    "difficulty": "beginner",
+    "learning_style": "hands-on",
+    "outcome": "Deploy machine learning models using AWS services."
+  },
+  {
+    "id": "MOD-005",
+    "title": "Practical SQL for Analytics & ML",
+    "description": "Practical SQL for Analytics & ML",
+    "prerequisites": [
+      "SQL Basics",
+      "Data Manipulation"
+    ],
+    "skills_required": [
+      "SQL Basics",
+      "Data Manipulation"
+    ],
+    "estimated_time_hours": 4.0,
+    "resources": [],
+    "status": "not started",
+    "difficulty": "beginner",
+    "learning_style": "hands-on",
+    "outcome": "Utilize SQL to extract and manipulate data for analytics and machine learning."
+  },
+  {
+    "id": "MOD-006",
+    "title": "Modern Warehousing on Snowflake",
+    "description": "Modern Warehousing on Snowflake",
+    "prerequisites": [
+      "SKILL: SQL",
+      "SKILL: Data Modeling"
+    ],
+    "skills_required": [
+      "SKILL: SQL",
+      "SKILL: Data Modeling"
+    ],
+    "estimated_time_hours": 4.0,
+    "resources": [
+      {
+        "title": "Snowflake Documentation",
+        "url": "https://docs.snowflake.com/en/user-guide.html"
+      },
+      {
+        "title": "Getting Started with Snowflake",
+        "url": "https://www.snowflake.com/guides/getting-started/"
+      },
+      {
+        "title": "Snowflake Tutorials",
+        "url": "https://www.snowflake.com/learn/tutorials/"
+      }
+    ],
+    "status": "not started",
+    "difficulty": "beginner",
+    "learning_style": "hands-on",
+    "outcome": "Implement a data warehousing solution using Snowflake."
+  },
+  {
+    "id": "MOD-007",
+    "title": "Mastering APIs",
+    "description": "Mastering APIs",
+    "prerequisites": [
+      "SKILL: Basic Programming",
+      "SKILL: Understanding of HTTP Protocols"
+    ],
+    "skills_required": [
+      "SKILL: Basic Programming",
+      "SKILL: Understanding of HTTP Protocols"
+    ],
+    "estimated_time_hours": 4.0,
+    "resources": [
+      {
+        "title": "Postman Learning Center",
+        "url": "https://learning.postman.com/docs/getting-started/introduction/",
+        "type": "official documentation"
+      },
+      {
+        "title": "RESTful API Design: A Tutorial",
+        "url": "https://www.restapitutorial.com/",
+        "type": "canonical guide"
+      },
+      {
+        "title": "API Development with Flask",
+        "url": "https://flask.palletsprojects.com/en/2.0.x/tutorial/",
+        "type": "official documentation"
+      }
+    ],
+    "status": "not started",
+    "difficulty": "beginner",
+    "learning_style": "hands-on",
+    "outcome": "Build and integrate APIs into data science projects"
+  },
+  {
+    "id": "MOD-008",
+    "title": "Distributed Data Processing with Spark",
+    "description": "Distributed Data Processing with Spark",
+    "prerequisites": [
+      "SKILL: Python",
+      "SKILL: SQL",
+      "SKILL: Basic Data Analysis"
+    ],
+    "skills_required": [
+      "SKILL: Python",
+      "SKILL: SQL",
+      "SKILL: Basic Data Analysis"
+    ],
+    "estimated_time_hours": 4.0,
+    "resources": [
+      {
+        "title": "Apache Spark Documentation",
+        "url": "https://spark.apache.org/docs/latest/"
+      },
+      {
+        "title": "Spark: The Definitive Guide",
+        "url": "https://www.oreilly.com/library/view/spark-the-definitive/9781492043214/"
+      },
+      {
+        "title": "Databricks Academy - Introduction to Apache Spark",
+        "url": "https://academy.databricks.com/learn/courses/introduction-to-apache-spark"
+      }
+    ],
+    "status": "not started",
+    "difficulty": "beginner",
+    "learning_style": "hands-on",
+    "outcome": "Implement distributed data processing tasks using Apache Spark."
+  },
+  {
+    "id": "MOD-009",
+    "title": "Mastering Causal Inference",
+    "description": "Mastering Causal Inference",
+    "prerequisites": [
+      "STATISTICS: Basic Statistical Concepts",
+      "PYTHON: Intermediate Python Programming"
+    ],
+    "skills_required": [
+      "STATISTICS: Basic Statistical Concepts",
+      "PYTHON: Intermediate Python Programming"
+    ],
+    "estimated_time_hours": 4.0,
+    "resources": [
+      {
+        "title": "Causal Inference: The Mixtape",
+        "type": "book",
+        "link": "https://www.statlearning.com/causal-inference-the-mixtape"
+      },
+      {
+        "title": "Causal Inference in Statistics: A Primer",
+        "type": "book",
+        "link": "https://www.wiley.com/en-us/Causal+Inference+in+Statistics%3A+A+Primer-p-9781119442092"
+      },
+      {
+        "title": "Causal Inference with R",
+        "type": "online course",
+        "link": "https://www.coursera.org/learn/causal-inference-r"
+      }
+    ],
+    "status": "not started",
+    "difficulty": "beginner",
+    "learning_style": "reading",
+    "outcome": "Understand and apply causal inference techniques in data analysis."
+  },
+  {
+    "id": "MOD-010",
+    "title": "Applied Machine Learning with scikit-learn",
+    "description": "Applied Machine Learning with scikit-learn",
+    "prerequisites": [
+      "SKILL: Python programming",
+      "SKILL: Basic statistics"
+    ],
+    "skills_required": [
+      "SKILL: Python programming",
+      "SKILL: Basic statistics"
+    ],
+    "estimated_time_hours": 4.0,
+    "resources": [
+      {
+        "title": "scikit-learn Documentation",
+        "url": "https://scikit-learn.org/stable/user_guide.html",
+        "type": "official documentation"
+      },
+      {
+        "title": "Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow",
+        "url": "https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/",
+        "type": "book"
+      },
+      {
+        "title": "Machine Learning with Scikit-Learn - Coursera",
+        "url": "https://www.coursera.org/learn/machine-learning-with-scikit-learn",
+        "type": "video course"
+      }
+    ],
+    "status": "not started",
+    "difficulty": "beginner",
+    "learning_style": "hands-on",
+    "outcome": "Implement machine learning models using scikit-learn"
+  },
+  {
+    "id": "MOD-011",
+    "title": "Deep Learning with TensorFlow",
+    "description": "Deep Learning with TensorFlow",
+    "prerequisites": [
+      "ML: Basic understanding of machine learning concepts",
+      "PY: Proficiency in Python programming"
+    ],
+    "skills_required": [
+      "ML: Basic understanding of machine learning concepts",
+      "PY: Proficiency in Python programming"
+    ],
+    "estimated_time_hours": 4.0,
+    "resources": [
+      {
+        "title": "TensorFlow Official Documentation",
+        "url": "https://www.tensorflow.org/learn"
+      },
+      {
+        "title": "Deep Learning with Python and TensorFlow",
+        "url": "https://www.manning.com/books/deep-learning-with-python-and-tensorflow"
+      },
+      {
+        "title": "Coursera: Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning",
+        "url": "https://www.coursera.org/learn/introduction-tensorflow"
+      }
+    ],
+    "status": "not started",
+    "difficulty": "beginner",
+    "learning_style": "hands-on",
+    "outcome": "Build and train a deep learning model using TensorFlow."
+  },
+  {
+    "id": "MOD-012",
+    "title": "Deep Learning with PyTorch",
+    "description": "Deep Learning with PyTorch",
+    "prerequisites": [
+      "SKILL: Python",
+      "SKILL: Machine Learning Basics"
+    ],
+    "skills_required": [
+      "SKILL: Python",
+      "SKILL: Machine Learning Basics"
+    ],
+    "estimated_time_hours": 4.0,
+    "resources": [
+      {
+        "title": "PyTorch Official Documentation",
+        "url": "https://pytorch.org/docs/stable/index.html"
+      },
+      {
+        "title": "Deep Learning with PyTorch: A 60 Minute Blitz",
+        "url": "https://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html"
+      },
+      {
+        "title": "Fast.ai Practical Deep Learning for Coders",
+        "url": "https://course.fast.ai/"
+      }
+    ],
+    "status": "not started",
+    "difficulty": "beginner",
+    "learning_style": "hands-on",
+    "outcome": "Build and train a neural network using PyTorch."
+  },
+  {
+    "id": "MOD-013",
+    "title": "Data Visualization with Tableau",
+    "description": "Data Visualization with Tableau",
+    "prerequisites": [
+      "SKILL: Basic Data Analysis",
+      "SKILL: Understanding of Data Visualization Principles"
+    ],
+    "skills_required": [
+      "SKILL: Basic Data Analysis",
+      "SKILL: Understanding of Data Visualization Principles"
+    ],
+    "estimated_time_hours": 4.0,
+    "resources": [
+      {
+        "title": "Tableau Official Training",
+        "url": "https://www.tableau.com/learn/training"
+      },
+      {
+        "title": "Getting Started with Tableau",
+        "url": "https://www.tableau.com/learn/articles/getting-started-tableau"
+      },
+      {
+        "title": "Tableau Public Gallery",
+        "url": "https://public.tableau.com/en-us/s/gallery"
+      }
+    ],
+    "status": "not started",
+    "difficulty": "beginner",
+    "learning_style": "hands-on",
+    "outcome": "Create interactive dashboards using Tableau to visualize data insights."
+  },
+  {
+    "id": "MOD-014",
+    "title": "Azure for Data Scientists",
+    "description": "Azure for Data Scientists",
+    "prerequisites": [
+      "SKILL: Basic Cloud Concepts",
+      "SKILL: Python Programming"
+    ],
+    "skills_required": [
+      "SKILL: Basic Cloud Concepts",
+      "SKILL: Python Programming"
+    ],
+    "estimated_time_hours": 4.0,
+    "resources": [
+      {
+        "title": "Azure Machine Learning Documentation",
+        "url": "https://docs.microsoft.com/en-us/azure/machine-learning/"
+      },
+      {
+        "title": "Getting Started with Azure Machine Learning",
+        "url": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-machine-learning/"
+      },
+      {
+        "title": "Azure for Data Scientists - Microsoft Learn",
+        "url": "https://docs.microsoft.com/en-us/learn/paths/azure-data-scientist/"
+      }
+    ],
+    "status": "not started",
+    "difficulty": "beginner",
+    "learning_style": "hands-on",
+    "outcome": "Utilize Azure Machine Learning services to build and deploy models."
+  },
+  {
+    "id": "MOD-015",
+    "title": "A/B Testing & Causal Inference",
+    "description": "A/B Testing & Causal Inference",
+    "prerequisites": [
+      "STATISTICS: Basic Statistical Concepts",
+      "PYTHON: Basic Python Programming"
+    ],
+    "skills_required": [
+      "STATISTICS: Basic Statistical Concepts",
+      "PYTHON: Basic Python Programming"
+    ],
+    "estimated_time_hours": 4.0,
+    "resources": [
+      {
+        "title": "A/B Testing: A Guide to Getting Started",
+        "url": "https://www.optimizely.com/insights/ab-testing-guide/"
+      },
+      {
+        "title": "Causal Inference in Statistics: A Primer",
+        "url": "https://www.stat.berkeley.edu/~breiman/UsingCausalInference.pdf"
+      },
+      {
+        "title": "A/B Testing with Python",
+        "url": "https://towardsdatascience.com/ab-testing-with-python-9f5b7f1c5e4c"
+      }
+    ],
+    "status": "not started",
+    "difficulty": "beginner",
+    "learning_style": "interactive",
+    "outcome": "Apply A/B testing methodologies to real-world scenarios"
+  }
+]

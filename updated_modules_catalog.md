@@ -1,0 +1,4 @@
+| ID | Name / Title | Description | Prerequisites | Est. Time | Resources | Status | Difficulty | Learning Style | Outcome |
+|---|---|---|---|---|---|---|---|---|---|
+| MOD-001 | Lakehouse Workflows on Databricks | Lakehouse Workflows on Databricks | SKILL: Databricks Basics, SKILL: Data Engineering Fundamentals | 4h | link, link, link | not started | beginner | h, a, n, d, s, -, o, n | Implement Lakehouse workflows using Databricks |
+| MOD-002 | Statistics & Experimentation Basics | Statistics & Experimentation Basics | SKILL: Basic Mathematics, SKILL: Python Programming | 4h |  | not started | beginner | r, e, a, d, i, n, g | Understand fundamental statistical concepts and experimentation techniques. |
